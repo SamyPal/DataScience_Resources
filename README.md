@@ -1,7 +1,6 @@
 # DataScience_Resources
 Resources for Data Science (ML, DL, Stats, SQL, Python, DataStructures and Algos, etc)
-Highlighted are full blown courses.
-
+FC --> Full Course
 
 ## Books
 
@@ -101,4 +100,3 @@ Highlighted are full blown courses.
 ## Populuar Githubs:
 
 1. Anuj Dutt - [https://github.com/anujdutt9?tab=repositories&q=&type=source&language=](https://github.com/anujdutt9?tab=repositories&q=&type=source&language=)
-2. 

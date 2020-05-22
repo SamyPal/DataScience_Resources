@@ -1,6 +1,6 @@
 # DataScience_Resources
 Resources for Data Science (ML, DL, Stats, SQL, Python, DataStructures and Algos, etc)
-Underlined are full blown courses.
+Full University Courses are in Italics.
 
 
 # AI

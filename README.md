@@ -5,7 +5,7 @@ Highlighted are full blown courses.
 
 ## Books
 
-1. Statistical Learning with R - Gareth James Daniela Witten Trevor Hastie Robert Tibshirani [https://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf](https://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)
+1. Statistical Learning with R - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani [https://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf](https://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)
 2. Handbook for ML and TensorFlow - Aurelien Geron
 3. Data Science from Scratch - Jus Gruel 
 4. Data Structures and Algorithms - Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein

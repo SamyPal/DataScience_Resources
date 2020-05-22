@@ -61,7 +61,8 @@ Full University Courses are in Italics.
 
 # Data Structures and Algos
 
-1. Dynamic Programming - Tushar Roy - Coding Made Simple
+1. MIT OCW - Srini Devdas - https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb
+2. MIT OCW - Recitations by Victor Costan - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/recitation-videos/
 2. _<span style="text-decoration:underline;">Kevin Wayne & Robert Sedgewick -- Princeton U -- Algorithms I via., Coursera</span>_
 3. _<span style="text-decoration:underline;">Kevin Wayne & Robert Sedgewick -- Princeton U -- Algorithms I via., Coursera</span>_
 

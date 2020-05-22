@@ -5,14 +5,10 @@ Full University Courses are in Italics.
 
 # AI
 
-
-
 1. Mukesh Rao - GreatLearning - [https://www.youtube.com/watch?v=opgTF9Yf3Dk](https://www.youtube.com/watch?v=opgTF9Yf3Dk)
 
 
 ## Machine Learning
-
-
 
 1. _<span style="text-decoration:underline;">Andrew Ng via Coursera</span>_
 2. _<span style="text-decoration:underline;">Tom Mitchell </span>- CMU - [http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml](http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml)_
@@ -21,16 +17,12 @@ Full University Courses are in Italics.
 
 ## Deep Learning
 
-
-
 1. _<span style="text-decoration:underline;">Deeplearning.ai via coursera</span> / Youtube._ - [https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w)
 2. Krish Naik - [https://www.youtube.com/watch?v=DKSZHN7jftI&list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi](https://www.youtube.com/watch?v=DKSZHN7jftI&list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi)
 3. Sentiment Analysis - [https://towardsdatascience.com/sentiment-analysis-using-lstm-step-by-step-50d074f09948](https://towardsdatascience.com/sentiment-analysis-using-lstm-step-by-step-50d074f09948)
 
 
 ## Forecasting / Time-Series Modeling
-
-
 
 1. TimeSeries Analysis - Prof. Jordan Kern: [https://www.youtube.com/watch?v=Prpu_U5tKkE](https://www.youtube.com/watch?v=Prpu_U5tKkE)
 2. Time Series Modeling - Prof. Jordan Kern: [https://www.youtube.com/watch?v=s3XH7fTHMb4](https://www.youtube.com/watch?v=s3XH7fTHMb4)
@@ -42,8 +34,6 @@ Full University Courses are in Italics.
 
 
 ## Trendsetters in AI and Deep Learning and their famous work:
-
-
 
 1. Ruslan Salakhutdinov - CMU - Restricted Boltzman Machine, Auto encoders for PCA [https://dl.acm.org/doi/10.1145/1273496.1273596](https://dl.acm.org/doi/10.1145/1273496.1273596)
 2. Yuanqing Lin - aibee.ai, Baidu
@@ -57,8 +47,7 @@ Full University Courses are in Italics.
 10. Michael Jordan - UC Berkeley
 11. Tom Mitchell - CMU
 
-# 
-    Stats and Probability
+# Stats and Probability
 
 1. ZedStatistics - [http://www.zstatistics.com/videos](http://www.zstatistics.com/videos)
 2. Great Learning via Youtube - [https://www.youtube.com/watch?v=Vfo5le26IhY](https://www.youtube.com/watch?v=Vfo5le26IhY)
@@ -72,8 +61,6 @@ Full University Courses are in Italics.
 
 # Data Structures and Algos
 
-
-
 1. Dynamic Programming - Tushar Roy - Coding Made Simple
 2. _<span style="text-decoration:underline;">Kevin Wayne & Robert Sedgewick -- Princeton U -- Algorithms I via., Coursera</span>_
 3. _<span style="text-decoration:underline;">Kevin Wayne & Robert Sedgewick -- Princeton U -- Algorithms I via., Coursera</span>_
@@ -81,18 +68,13 @@ Full University Courses are in Italics.
 
 # Coding Languages
 
-
 ## Python
-
-
 
 1. Corey Schafer YT Channel
 2. Sentdex YT Channel
 
 
 ## SQL
-
-
 
 1. W3resource**:**[https://www.w3resource.com/sql-exercises/soccer-database-exercise/sql-joins-exercise-soccer-database-16.php](https://www.w3resource.com/sql-exercises/soccer-database-exercise/sql-joins-exercise-soccer-database-16.php)
 2. Coursera IBM by Rav Ahuja: [https://www.coursera.org/learn/sql-data-science/home/welcome](https://www.coursera.org/learn/sql-data-science/home/welcome)
@@ -101,23 +83,19 @@ Full University Courses are in Italics.
 
 ## Data Viz Tools
 
-
-
 1. Tableau - [https://www.youtube.com/watch?v=6mBtTNggkUk](https://www.youtube.com/watch?v=6mBtTNggkUk)
 2. Exploratory - [https://exploratory.io/download-public](https://exploratory.io/download-public)
 
-# 
-    Books
 
-1. ** **Statistical Learning with R - Gareth James Daniela Witten Trevor Hastie Robert Tibshirani [https://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf](https://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)
+# Books
+
+1.Statistical Learning with R - Gareth James Daniela Witten Trevor Hastie Robert Tibshirani [https://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf](https://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)
 2. Handbook for ML and TensorFlow - Aurelien Geron
 3. Data Science from Scratch - Jus Gruel 
 4. Data Structures and Algorithms -  Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein 
 
 
 # Websites
-
-
 
 1. GeeksforGeeks
 2. Datacamp
@@ -127,14 +105,10 @@ Full University Courses are in Italics.
 
 # Popular Githubs
 
-
-
 1. Anuj Dutt - [https://github.com/anujdutt9?tab=repositories&q=&type=source&language=](https://github.com/anujdutt9?tab=repositories&q=&type=source&language=)
 
 
 # Podcasts
-
-
 
 1. Interviews by Lex Fridman
 2. Interviews by Andrew Ng

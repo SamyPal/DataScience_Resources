@@ -76,15 +76,17 @@ Full University Courses are in Italics.
 
 ## SQL
 
-1. W3resource**:**[https://www.w3resource.com/sql-exercises/soccer-database-exercise/sql-joins-exercise-soccer-database-16.php](https://www.w3resource.com/sql-exercises/soccer-database-exercise/sql-joins-exercise-soccer-database-16.php)
+1. W3resource: [https://www.w3resource.com/sql-exercises/soccer-database-exercise/sql-joins-exercise-soccer-database-16.php](https://www.w3resource.com/sql-exercises/soccer-database-exercise/sql-joins-exercise-soccer-database-16.php)
 2. Coursera IBM by Rav Ahuja: [https://www.coursera.org/learn/sql-data-science/home/welcome](https://www.coursera.org/learn/sql-data-science/home/welcome)
 3. Microsoft:[https://docs.microsoft.com/en-us/sql/t-sql/queries/select-over-clause-transact-sql?view=sql-server-ver15](https://docs.microsoft.com/en-us/sql/t-sql/queries/select-over-clause-transact-sql?view=sql-server-ver15)
 
 
-## Data Viz Tools
+## Data Viz and Deployment Tools
 
 1. Tableau - [https://www.youtube.com/watch?v=6mBtTNggkUk](https://www.youtube.com/watch?v=6mBtTNggkUk)
 2. Exploratory - [https://exploratory.io/download-public](https://exploratory.io/download-public)
+3. Heroku Flask App
+4. Docker
 
 
 # Books
@@ -101,6 +103,7 @@ Full University Courses are in Italics.
 2. Datacamp
 3. W3Resource
 4. Stackoverflow
+5. KDnuggets
 
 
 # Popular Githubs
@@ -117,3 +120,5 @@ Full University Courses are in Italics.
 
 
 # Blogs
+
+1. Jason Brownlee - [Machine Learning Mastery]https://machinelearningmastery.com/blog/

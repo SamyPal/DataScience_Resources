@@ -11,7 +11,7 @@ Highlighted are full blown courses.
 4. Data Structures and Algorithms - Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein
 
 
- ## Websites, Bootcamps - Tutorials, Cheatsheets, Podcasts**
+ ## Websites, Bootcamps - Tutorials, Cheatsheets, Podcasts
  
 1. GeeksforGeeks
 2. Stackoverflow
@@ -19,7 +19,7 @@ Highlighted are full blown courses.
 4. W3Resource
 
 
-## Statistics and Probability**
+## Statistics and Probability
 
 1. ZedStatistics - [http://www.zstatistics.com/videos](http://www.zstatistics.com/videos)
 2. Great Learning via Youtube - [https://www.youtube.com/watch?v=Vfo5le26IhY](https://www.youtube.com/watch?v=Vfo5le26IhY)
@@ -86,23 +86,17 @@ Highlighted are full blown courses.
 1. Interviews by Lex Fridman
 2. Interviews by Andrew Ng
 
-Ruslan Salakhutdinov - Restricted Boltzman Machine, Auto encoders for PCA [https://dl.acm.org/doi/10.1145/1273496.1273596](https://dl.acm.org/doi/10.1145/1273496.1273596)
+1. Yuanqing Lin
+2. Ian Goodfellow
+3. Yoshua Bengio
+4. Pieter Abbeel
+5. Andrej Karpathy
+6. Yann leCun
+7. Geoffrey Hinton
+8. Michael Jordan - Stanford
+9. Tom Mitchell - CMU
+10. Ruslan Salakhutdinov - Restricted Boltzman Machine, Auto encoders for PCA [https://dl.acm.org/doi/10.1145/1273496.1273596](https://dl.acm.org/doi/10.1145/1273496.1273596)
 
-Yuanqing Lin
-
-Ian Goodfellow
-
-Yoshua Bengio
-
-Pieter Abbeel
-
-Andrej Karpathy
-
-Yann leCun
-
-Geoffrey Hinton
-
-Michael Jordan
 
 ## Populuar Githubs:
 

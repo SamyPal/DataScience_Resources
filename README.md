@@ -5,10 +5,10 @@ Highlighted are full blown courses.
 
 ## Books
 
-    **1. **Statistical Learning with R - Gareth James Daniela Witten Trevor Hastie Robert Tibshirani [https://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf](https://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)
-    2. Handbook for ML and TensorFlow - Aurelien Geron
-    3. Data Science from Scratch - Jus Gruel 
-    4. Data Structures and Algorithms -  [Thomas H. Cormen](https://www.amazon.com/Thomas-H-Cormen/e/B000AQ24AS/ref=dp_byline_cont_book_1), [Charles E. Leiserson](https://www.amazon.com/Charles-E-Leiserson/e/B000AQ6W9W/ref=dp_byline_cont_book_2), [Ronald L. Rivest](https://www.amazon.com/Ronald-L-Rivest/e/B000AQ24MQ/ref=dp_byline_cont_book_3), [Clifford Stein](https://www.amazon.com/Clifford-Stein/e/B001K6MOAW/ref=dp_byline_cont_book_4) 
+1. Statistical Learning with R - Gareth James Daniela Witten Trevor Hastie Robert Tibshirani [https://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf](https://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)
+2. Handbook for ML and TensorFlow - Aurelien Geron
+3. Data Science from Scratch - Jus Gruel 
+4. Data Structures and Algorithms - Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein
 
 
  ## Websites, Bootcamps - Tutorials, Cheatsheets, Podcasts**
@@ -17,6 +17,7 @@ Highlighted are full blown courses.
 2. Stackoverflow
 3. Datacamp
 4. W3Resource
+
 
 ## Statistics and Probability**
 
@@ -29,28 +30,28 @@ Highlighted are full blown courses.
     3. Fundas of Quant Modeling: [https://www.coursera.org/learn/wharton-quantitative-modeling#syllabus](https://www.coursera.org/learn/wharton-quantitative-modeling#syllabus)
     4. Finance Specialization - risk and realities, decision making scenarios, etc.
 
-## SQL:**
+
+## SQL:
 
 1. **W3resource:**[https://www.w3resource.com/sql-exercises/soccer-database-exercise/sql-joins-exercise-soccer-database-16.php](https://www.w3resource.com/sql-exercises/soccer-database-exercise/sql-joins-exercise-soccer-database-16.php)
 2. Coursera IBM by Rav Ahuja: [https://www.coursera.org/learn/sql-data-science/home/welcome](https://www.coursera.org/learn/sql-data-science/home/welcome)
 3. Microsoft:[https://docs.microsoft.com/en-us/sql/t-sql/queries/select-over-clause-transact-sql?view=sql-server-ver15](https://docs.microsoft.com/en-us/sql/t-sql/queries/select-over-clause-transact-sql?view=sql-server-ver15)
 
-**Python:**
 
-
+## Python:
 
 1. Corey Schafer
 2. Sentdex
 
-    **Machine Learning**
+
+## Machine Learning
 
 1. Andrew Ng via Coursera
 2. Tom Mitchell - CMU - [http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml](http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml)
 3. Yaser Abu-Mostafa - Caltech - [https://work.caltech.edu/telecourse](https://work.caltech.edu/telecourse)
 
-**Deep Learning**
 
-
+## Deep Learning
 
 1. Deeplearning.ai via coursera / Youtube. - [https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w)
 2. Krish Naik - [https://www.youtube.com/watch?v=DKSZHN7jftI&list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi](https://www.youtube.com/watch?v=DKSZHN7jftI&list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi)
@@ -74,16 +75,13 @@ Highlighted are full blown courses.
 6. Aileen Nielsen: [https://www.youtube.com/watch?v=v5ijNXvlC5A](https://www.youtube.com/watch?v=v5ijNXvlC5A)
 7. FB Prophet: [https://blog.exploratory.io/an-introduction-to-time-series-forecasting-with-prophet-package-in-exploratory-129ed0c12112](https://blog.exploratory.io/an-introduction-to-time-series-forecasting-with-prophet-package-in-exploratory-129ed0c12112)
 
-**Data Viz:**
-
-
+## Data Viz:
 
 1. Greatlearning (Tableau Tutorial)  - [https://www.youtube.com/watch?v=6mBtTNggkUk](https://www.youtube.com/watch?v=6mBtTNggkUk)
 2. Exploratory - [https://exploratory.io/download-public](https://exploratory.io/download-public)
 
-**Trendsetters and their famous work:**
 
-
+## Trendsetters and their famous work:
 
 1. Interviews by Lex Fridman
 2. Interviews by Andrew Ng
@@ -106,9 +104,7 @@ Geoffrey Hinton
 
 Michael Jordan
 
-Populuar Githubs:
-
-
+## Populuar Githubs:
 
 1. Anuj Dutt - [https://github.com/anujdutt9?tab=repositories&q=&type=source&language=](https://github.com/anujdutt9?tab=repositories&q=&type=source&language=)
 2. 

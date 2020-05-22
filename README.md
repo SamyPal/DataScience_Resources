@@ -3,31 +3,22 @@ Resources for Data Science (ML, DL, Stats, SQL, Python, DataStructures and Algos
 Highlighted are full blown courses.
 
 
-    **Books**
-
+## Books
 
     **1. **Statistical Learning with R - Gareth James Daniela Witten Trevor Hastie Robert Tibshirani [https://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf](https://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)
-
-
     2. Handbook for ML and TensorFlow - Aurelien Geron
-
-
     3. Data Science from Scratch - Jus Gruel 
-
-
     4. Data Structures and Algorithms -  [Thomas H. Cormen](https://www.amazon.com/Thomas-H-Cormen/e/B000AQ24AS/ref=dp_byline_cont_book_1), [Charles E. Leiserson](https://www.amazon.com/Charles-E-Leiserson/e/B000AQ6W9W/ref=dp_byline_cont_book_2), [Ronald L. Rivest](https://www.amazon.com/Ronald-L-Rivest/e/B000AQ24MQ/ref=dp_byline_cont_book_3), [Clifford Stein](https://www.amazon.com/Clifford-Stein/e/B001K6MOAW/ref=dp_byline_cont_book_4) 
 
 
-    **Websites, Bootcamps - Tutorials, Cheatsheets, Podcasts**
-
-
-
+ ## Websites, Bootcamps - Tutorials, Cheatsheets, Podcasts**
+ 
 1. GeeksforGeeks
 2. Stackoverflow
 3. Datacamp
 4. W3Resource
 
-    **Stats and Probability**
+## Statistics and Probability**
 
 1. ZedStatistics - [http://www.zstatistics.com/videos](http://www.zstatistics.com/videos)
 2. Great Learning via Youtube - [https://www.youtube.com/watch?v=Vfo5le26IhY](https://www.youtube.com/watch?v=Vfo5le26IhY)
@@ -38,9 +29,7 @@ Highlighted are full blown courses.
     3. Fundas of Quant Modeling: [https://www.coursera.org/learn/wharton-quantitative-modeling#syllabus](https://www.coursera.org/learn/wharton-quantitative-modeling#syllabus)
     4. Finance Specialization - risk and realities, decision making scenarios, etc.
 
-**SQL:**
-
-
+## SQL:**
 
 1. **W3resource:**[https://www.w3resource.com/sql-exercises/soccer-database-exercise/sql-joins-exercise-soccer-database-16.php](https://www.w3resource.com/sql-exercises/soccer-database-exercise/sql-joins-exercise-soccer-database-16.php)
 2. Coursera IBM by Rav Ahuja: [https://www.coursera.org/learn/sql-data-science/home/welcome](https://www.coursera.org/learn/sql-data-science/home/welcome)
